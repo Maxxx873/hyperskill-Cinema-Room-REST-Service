@@ -1,2 +1,4 @@
 # Cinema-Room-REST-Service
-a simple Spring REST service
+Developing a simple Spring REST service
+
+https://hyperskill.org/projects/189
